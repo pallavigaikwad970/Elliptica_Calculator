@@ -1,1 +1,1 @@
-# Elliptica_Calculator
+This is basic calculator project from TechElliptica Education
